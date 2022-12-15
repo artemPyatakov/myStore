@@ -22,7 +22,7 @@
     </build>
     
     <properties>
-        <spring-version>5.1.4.RELEASE</spring-version>
+        <spring-version>5.2.20.RELEASE</spring-version>
         <springDataVersion>2.1.8.RELEASE</springDataVersion>
         <hibernate-version>5.4.1.Final</hibernate-version>
     </properties>
